@@ -8,6 +8,10 @@ details summary { list-style: none; position: relative; padding-right: 36px; }
 details summary::-webkit-details-marker { display: none; }
 details summary::after { content: "+"; position: absolute; right: 4px; top: -2px; font-size: 26px; font-weight: 400; color: #71C6ED; }
 details[open] summary::after { content: "–"; }
+@media (max-width: 760px) {
+  .hero-img { left: 0 !important; opacity: .45; }
+  .hero-shade { background: rgba(11,13,20,.35) !important; }
+}
 footer a { color: #AEB7C9; }
 footer a:hover { color: #EEF1F6; }
 
