@@ -1,6 +1,6 @@
 # The Human Edge — conference website
 
-Static site for The Human Edge, inaugural salon of Sustainable High Performance (10–11 December 2026, Sports Equity Lab, Stanford University, and online).
+Static site for The Human Edge, inaugural salon of Sustainable High Performance (10 December 2026 at Sports Equity Lab, Stanford University; 11 December 2026 online on Zoom).
 
 ## Pages
 
@@ -14,7 +14,7 @@ Ticket buttons read their checkout URLs from `assets/config.js`. Paste the Luma 
 
 ## Before launch
 
-Fill the placeholders in square brackets on the legal pages: registered address, contact email, payment provider and VAT wording.
+Fill the placeholders in square brackets on the legal pages: the VAT wording in the ticket terms.
 
 ## Hosting
 
